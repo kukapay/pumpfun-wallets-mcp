@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kukapay-pumpfun-wallets-mcp-badge.png)](https://mseep.ai/app/kukapay-pumpfun-wallets-mcp)
+
 # Pumpfun Wallets MCP
 
 An MCP server that analyzes wallets’ trading activity and profitability on Pump.fun and PumpSwap.
